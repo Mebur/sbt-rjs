@@ -8,3 +8,5 @@ libraryDependencies ++= Seq(
 )
 
 addSbtJsEngine("1.2.2")
+
+scalaVersion := "2.12.2"
